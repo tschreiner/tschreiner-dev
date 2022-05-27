@@ -15,10 +15,7 @@ author: Tedd Schreiner
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tschreiner.github.io/tschreiner-dev/"
+  Projects: "projects"
 
 # --- Logo --- #
 
@@ -44,7 +41,6 @@ social-network-links:
   facebook: tedd.schreiner
   github: tschreiner
   twitter: teddschreiner
-#  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -55,9 +51,6 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
   telephone: 01706873202
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
