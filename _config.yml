@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Tedd Schriner | Systemadministrator | CV
+title: Tedd Schreiner | Systemadministrator
 
 # Your name to show in the footer
-author: Some Person
+author: Tedd Schreiner
 
 # --- List of links in the navigation bar --- #
 
@@ -39,22 +39,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "info@teddschreiner.de"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: tedd.schreiner
+  github: tschreiner
+  twitter: teddschreiner
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
+  linkedin: teddschreiner
+  xing: Tedd_Schreiner
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +491706873202
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -77,6 +77,9 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
+  github: true
+  twitter: true
+  xing: true
   linkedin: true
   vk: false
 
